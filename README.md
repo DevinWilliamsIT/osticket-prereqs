@@ -35,6 +35,16 @@ This tutorial outlines the prerequisites and installation of the open-source hel
  
  ![image](https://github.com/DevinWilliamsIT/osticket-prereqs/assets/155914712/f29aa35b-24b6-4a58-b0b4-c6686a0e402e)
 
+ ![image](https://github.com/DevinWilliamsIT/osticket-prereqs/assets/155914712/8d9177ad-5bd4-41ce-a9d9-28e9a640f063)
+
+ <p>
+  Note: Make sure you remember your username and password as you'll need to log into the Virtual Machine.
+ </p>
+
+ ![image](https://github.com/DevinWilliamsIT/osticket-prereqs/assets/155914712/03678507-a2a8-400f-8a07-24a9b045c04f)
+
+ <br />
+
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
