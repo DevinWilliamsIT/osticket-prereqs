@@ -158,6 +158,20 @@ Standard Configuration ->
 Password1
 </p>
 
+![image](https://github.com/DevinWilliamsIT/osticket-prereqs/assets/155914712/4b4970b1-b59c-4665-9299-479cd09fbff2)
+
+![image](https://github.com/DevinWilliamsIT/osticket-prereqs/assets/155914712/012f4d29-f540-4778-854a-e1365880ba74)
+
+![image](https://github.com/DevinWilliamsIT/osticket-prereqs/assets/155914712/232cb70a-81aa-4e7d-85c4-4aa9f292eff3)
+
+![image](https://github.com/DevinWilliamsIT/osticket-prereqs/assets/155914712/8a80611c-cf14-40d2-8d01-a1c41eaf2e0a)
+
+<br />
+
+
+
+
+
 
 
 
