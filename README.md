@@ -68,8 +68,36 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 ![image](https://github.com/DevinWilliamsIT/osticket-prereqs/assets/155914712/26ab9408-c94f-4fdb-a86b-30f66702d40d)
 
 <p>
-
+Next click on Turn Windows features on or off
 </p>
+
+![image](https://github.com/DevinWilliamsIT/osticket-prereqs/assets/155914712/99519c1e-27f5-4b70-874e-5d92ed8bb183)
+
+<p>
+ Now find Internet Information Services and check that
+</p>
+
+![image](https://github.com/DevinWilliamsIT/osticket-prereqs/assets/155914712/e061b84c-f6b5-48f1-b618-9f8e04d3642c)
+
+<p>
+ Next navigate to World Wide Web Services -> Application Development Features ->
+[X] CGI
+[X] Common HTTP Features
+</p>
+
+<p>
+ Next navigate to Internet Information Services -> Web Management Tools -> IIS Management Console
+	[X] IIS Management Console
+</p>
+
+![image](https://github.com/DevinWilliamsIT/osticket-prereqs/assets/155914712/702901e7-1b78-4a99-89f1-ae50376a6d48)
+
+<p>
+ To check if youve successfully enabled IIS in your Virtual Machine go to your browser and type in 127.0.0.1, and if this page comes up then you've successfully enabled IIS. 
+</p>
+
+![image](https://github.com/DevinWilliamsIT/osticket-prereqs/assets/155914712/1e2078f4-33f3-47dc-a071-2087ca8b1e95)
+
 <br />
 
 <p>
