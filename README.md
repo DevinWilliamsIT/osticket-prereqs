@@ -31,8 +31,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <p>
 1. Create a Virtual Machine and Resource group in Azure by going to portal.azure.com. The setup must include windows 10 and at least 2 vcpu's 
-</p>
-![image](https://github.com/DevinWilliamsIT/osticket-prereqs/assets/155914712/f0450b97-c0ec-449d-829c-864b2a27bb16)
+ </p>
+ 
+ ![image](https://github.com/DevinWilliamsIT/osticket-prereqs/assets/155914712/f29aa35b-24b6-4a58-b0b4-c6686a0e402e)
 
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
