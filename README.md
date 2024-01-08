@@ -38,7 +38,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
  ![image](https://github.com/DevinWilliamsIT/osticket-prereqs/assets/155914712/8d9177ad-5bd4-41ce-a9d9-28e9a640f063)
 
  <p>
-  Note: Make sure you remember your username and password as you'll need to log into the Virtual Machine.
+  Note: Make sure you remember your username and password as you'll need it to log into the Virtual Machine.
  </p>
 
  ![image](https://github.com/DevinWilliamsIT/osticket-prereqs/assets/155914712/03678507-a2a8-400f-8a07-24a9b045c04f)
@@ -46,8 +46,19 @@ This tutorial outlines the prerequisites and installation of the open-source hel
  <br />
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+2. Once your Resource Group and Virtual Machine is created we are going to connect to the Virtual Machine using Remote Desktop Connection. Copy the public IP address of your Virtual Machine and paste it into Remote Desktop Connection.
 </p>
+
+![image](https://github.com/DevinWilliamsIT/osticket-prereqs/assets/155914712/87ca327d-b275-47e2-8fa5-2ec3831f0730)
+
+![image](https://github.com/DevinWilliamsIT/osticket-prereqs/assets/155914712/0ff0ebb5-5c14-4a81-be33-6c28aa6cad74)
+
+<p>
+ Next put the username and password you made into Remote Desktop Connection. (If another random username comes up navigate to more choices and it will give you the option to put another user name).
+</p>
+
+![image](https://github.com/DevinWilliamsIT/osticket-prereqs/assets/155914712/ecd234b0-9cab-4f7c-a3ef-8ad6df0e3bf6)
+
 <br />
 
 <p>
