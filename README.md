@@ -233,6 +233,48 @@ Note that some extensions are not enabled
 </ul>
 </p>
 
+![image](https://github.com/DevinWilliamsIT/osticket-prereqs/assets/155914712/27250d35-e1ed-4e1c-ba80-994b8fc05981)
+
+![image](https://github.com/DevinWilliamsIT/osticket-prereqs/assets/155914712/3fc7363d-e9fc-47bb-b11c-b91d25421724)
+
+<br />
+
+<p>
+12. Next step is to rename: ost-config.php
+<ul>
+<li>From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php</li>
+<li>To: C:\inetpub\wwwroot\osTicket\include\ost-config.php</li>
+</ul>
+</p>
+
+![image](https://github.com/DevinWilliamsIT/osticket-prereqs/assets/155914712/a108e07f-2d9d-4a92-bab9-1d189cd6be1b)
+
+<p>
+Next we have to assign permissions and disable inheritance within ost-config.php
+<ul>
+<li>Assign Permissions: ost-config.php</li>
+<li>Disable inheritance -> Remove All</li>
+<li>New Permissions -> Everyone -> All</li>
+</ul>
+</p>
+
+![image](https://github.com/DevinWilliamsIT/osticket-prereqs/assets/155914712/b0c31334-ece9-4049-bc19-b3469053a7ab)
+
+![image](https://github.com/DevinWilliamsIT/osticket-prereqs/assets/155914712/8657e07a-9a67-43a6-bb6a-66825db5b420)
+
+![image](https://github.com/DevinWilliamsIT/osticket-prereqs/assets/155914712/9babdfe6-5007-4443-8d10-52ce9d91b717)
+
+![image](https://github.com/DevinWilliamsIT/osticket-prereqs/assets/155914712/821cf81f-2741-418d-b208-5a4bafca16f9)
+
+<br />
+
+
+
+
+
+
+
+
 
 
 
