@@ -168,6 +168,14 @@ Password1
 
 <br />
 
+<p>
+9. Next we are going to open IIS as an admin. Go to the start menu and type in IIS and right it to run as an administrator.
+</p>
+
+<p>
+
+</p>
+
 
 
 
