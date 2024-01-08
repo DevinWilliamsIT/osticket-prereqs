@@ -295,6 +295,29 @@ Next we have to assign permissions and disable inheritance within ost-config.php
 
 ![image](https://github.com/DevinWilliamsIT/osticket-prereqs/assets/155914712/623f0e29-89c0-4e27-a96e-6df0ac38aa10)
 
+![image](https://github.com/DevinWilliamsIT/osticket-prereqs/assets/155914712/9ec31d17-a062-44cf-859c-b68e80245050)
+
+<p>
+15. Lastly we are going to continue setting up osticket in the browser
+<ul>
+<li>MySQL Database: osTicket</li>
+<li>MySQL Username: root</li>
+<li>MySQL Password: Password1</li>
+<li>Click “Install Now!”</li>
+</ul>
+</p>
+
+![image](https://github.com/DevinWilliamsIT/osticket-prereqs/assets/155914712/e46387e0-1439-4c5e-a303-6d3bde3cb786)
+
+![image](https://github.com/DevinWilliamsIT/osticket-prereqs/assets/155914712/16181803-e0ca-4e25-be68-433ac1bd1b26)
+
+<p>
+Congrats! You have now successfully installed and setup osTicket!
+</p>
+
+
+
+
 
 
 
