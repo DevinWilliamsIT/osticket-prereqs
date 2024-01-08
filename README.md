@@ -101,9 +101,15 @@ Next click on Turn Windows features on or off
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+4. For the next step we'll have to down load some files, first one is going to be PHP Manager for IIS. Navigate to your installation files on click download on PHP Manager for IIS.
 </p>
+
+![image](https://github.com/DevinWilliamsIT/osticket-prereqs/assets/155914712/ed63e59c-2ff2-4ee9-8840-d83f10567d62)
+
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+After its downloaded go through the installation process and then navigate to the installation files and do the same thing and download the Rewrite Module.
 </p>
+
+![image](https://github.com/DevinWilliamsIT/osticket-prereqs/assets/155914712/28f912fe-f0fc-4910-b1e1-0991ba3385f3)
+
 <br />
