@@ -30,9 +30,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-1. Create 
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+1. Create a Virtual Machine and Resource group in Azure by going to portal.azure.com. The setup must include windows 10 and at least 2 vcpu's 
 </p>
+![image](https://github.com/DevinWilliamsIT/osticket-prereqs/assets/155914712/f0450b97-c0ec-449d-829c-864b2a27bb16)
+
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
