@@ -268,6 +268,30 @@ Next we have to assign permissions and disable inheritance within ost-config.php
 
 <br />
 
+<p>
+13. Next we are going to continue setting up osTicket in the browser.
+</p>
+
+![image](https://github.com/DevinWilliamsIT/osticket-prereqs/assets/155914712/e9d34125-6937-4ca3-a89e-2b919b0cc400)
+
+<br />
+
+<p>
+14. Now we are going to navigate back to our installation files to download and install HeidiSQL.
+</p>
+
+![image](https://github.com/DevinWilliamsIT/osticket-prereqs/assets/155914712/312a8b81-68ac-40c4-94c1-010b8f8ea72e)
+
+![image](https://github.com/DevinWilliamsIT/osticket-prereqs/assets/155914712/9022ec50-415d-4e42-af02-45cfa7c4f605)
+
+![image](https://github.com/DevinWilliamsIT/osticket-prereqs/assets/155914712/623f0e29-89c0-4e27-a96e-6df0ac38aa10)
+
+
+
+
+
+
+
 
 
 
