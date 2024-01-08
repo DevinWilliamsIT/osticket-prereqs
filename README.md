@@ -178,6 +178,27 @@ Once you have opened IIS as an administrator navigate to PHP manager and registe
 
 ![image](https://github.com/DevinWilliamsIT/osticket-prereqs/assets/155914712/8aec42fb-4cc9-4a64-a24c-2c96eea61b67)
 
+![image](https://github.com/DevinWilliamsIT/osticket-prereqs/assets/155914712/40f31a70-af9e-436d-a247-33e074025c80)
+
+<p>
+We now have to provide a path to the php executable file (php-cgi.exe)). Go to C Drive -> PHP -> click on php-cgi file.
+</p>
+
+![image](https://github.com/DevinWilliamsIT/osticket-prereqs/assets/155914712/46a3cee1-a5ac-44ec-9d6d-3cd6e216dc94)
+
+![image](https://github.com/DevinWilliamsIT/osticket-prereqs/assets/155914712/2c102dc8-2bca-4c61-aa89-07cd430566bf)
+
+<p>
+Restart the IIS server.
+</p>
+
+<br />
+
+
+
+
+
+
 
 
 
