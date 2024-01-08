@@ -284,6 +284,15 @@ Next we have to assign permissions and disable inheritance within ost-config.php
 
 ![image](https://github.com/DevinWilliamsIT/osticket-prereqs/assets/155914712/9022ec50-415d-4e42-af02-45cfa7c4f605)
 
+<p>
+<ul>
+<li>Open Heidi SQL</li>
+<li>Create a new session, root/Password1</li>
+<li>Connect to the session</li>
+<li>Create a database called “osTicket”</li>
+</ul>
+</p>
+
 ![image](https://github.com/DevinWilliamsIT/osticket-prereqs/assets/155914712/623f0e29-89c0-4e27-a96e-6df0ac38aa10)
 
 
