@@ -113,3 +113,26 @@ After its downloaded go through the installation process and then navigate to th
 ![image](https://github.com/DevinWilliamsIT/osticket-prereqs/assets/155914712/28f912fe-f0fc-4910-b1e1-0991ba3385f3)
 
 <br />
+
+<p>
+5. The next step is to create a directory for a future download, navigate to your C drive and create a new folder called PHP.	
+</p>
+
+![image](https://github.com/DevinWilliamsIT/osticket-prereqs/assets/155914712/df061eed-e36c-4b76-a16d-b2521e62fe4e)
+
+<br />
+
+<p>
+6. Next we are going to navigate back to our installation files and download PHP 7.3.8.
+</p>
+
+![image](https://github.com/DevinWilliamsIT/osticket-prereqs/assets/155914712/c4a8cf75-cc87-4d13-a8cc-2d5323d9c682)
+
+<p>
+One the file is downloaded go to it and right click it and extract it to your PHP folder we just made in your C drive.
+</p>
+
+![image](https://github.com/DevinWilliamsIT/osticket-prereqs/assets/155914712/236283a1-9d7d-48cd-97b9-acce7ffecc9b)
+
+
+
