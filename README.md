@@ -129,10 +129,40 @@ After its downloaded go through the installation process and then navigate to th
 ![image](https://github.com/DevinWilliamsIT/osticket-prereqs/assets/155914712/c4a8cf75-cc87-4d13-a8cc-2d5323d9c682)
 
 <p>
-One the file is downloaded go to it and right click it and extract it to your PHP folder we just made in your C drive.
+Once the file is downloaded go to it and right click on it and extract it to your PHP folder we just made in your C drive.
 </p>
 
 ![image](https://github.com/DevinWilliamsIT/osticket-prereqs/assets/155914712/236283a1-9d7d-48cd-97b9-acce7ffecc9b)
+
+<br />
+
+<p>
+7. Next we are going to navigate back to our installation files and download and install VC_redist.x86.exe. 
+</p>
+
+![image](https://github.com/DevinWilliamsIT/osticket-prereqs/assets/155914712/f8f6aaa7-1367-48f0-8888-d632265946da)
+
+<br />
+
+<p>
+8. Now we are going to download and install MySQL 5.5.62 from our installation files.
+</p>
+
+![image](https://github.com/DevinWilliamsIT/osticket-prereqs/assets/155914712/128252ab-d951-4830-b0f9-f218d4bdfe51)
+
+<p>
+Once MySQL is finished downloading here are the installation steps within MySQL.
+	Typical Setup ->
+Launch Configuration Wizard (after install) ->
+Standard Configuration ->
+Password1
+</p>
+
+
+
+
+
+
 
 
 
