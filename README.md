@@ -169,12 +169,17 @@ Password1
 <br />
 
 <p>
-9. Next we are going to open IIS as an admin. Go to the start menu and type in IIS and right it to run as an administrator.
+9. Next we are going to open IIS as an admin. Go to the start menu and type in IIS and right click it to run as an administrator.
 </p>
 
 <p>
-
+Once you have opened IIS as an administrator navigate to PHP manager and register PHP from within IIS.
 </p>
+
+![image](https://github.com/DevinWilliamsIT/osticket-prereqs/assets/155914712/8aec42fb-4cc9-4a64-a24c-2c96eea61b67)
+
+
+
 
 
 
