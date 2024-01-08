@@ -197,9 +197,13 @@ Restart the IIS server.
 <p>
 10. The next step is to Install osTicket v1.15.8.
 Download osTicket from the Installation Files Folder.
+</p>
+
+![image](https://github.com/DevinWilliamsIT/osticket-prereqs/assets/155914712/896fc152-0a0b-4dc4-9529-8f097c8da719)
+
+<p>
 Extract and copy “upload” folder to c:\inetpub\wwwroot
 Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”. Note: open a new file explorer and just drag upload into the wwwroot file, you won't be able to right click and extract it.
-
 </p>
 
 ![image](https://github.com/DevinWilliamsIT/osticket-prereqs/assets/155914712/a392c312-2a0b-44f3-834f-ad3c3571fff8)
